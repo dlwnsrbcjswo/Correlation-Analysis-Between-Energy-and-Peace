@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c500af2f-af90-4ed0-bbc0-196b53d6bdb3" />
+
 # Correlation-Analysis-Between-Energy-and-Peace
 Correlation Analysis Between Energy Consumption per Capita and the Positive Peace Index (PPI)
 
