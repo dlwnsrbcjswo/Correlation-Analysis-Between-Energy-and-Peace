@@ -18,15 +18,3 @@ This project explores the relationship between *energy consumption per capita (M
   - *Weak or no correlation observed for [feature] across [regions]*.
   - *Regional patterns: [short summary of any region-specific trends]*
 
-**How to run (quick)**
-```bash
-# 1) create & activate virtual env (optional)
-python -m venv venv
-source venv/bin/activate     # macOS/Linux
-venv\Scripts\activate        # Windows
-
-# 2) install dependencies
-pip install -r requirements.txt
-
-# 3) open notebooks
-jupyter lab  # or jupyter notebook
